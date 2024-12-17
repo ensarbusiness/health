@@ -52,3 +52,8 @@ By mastering these concepts, you'll gain a comprehensive understanding of the in
 Citations:
 [1] https://www.accenture.com/us-en/case-studies/data-ai/ccs-turning-wealth-information-action-for-patients
 [2] https://www.accenture.com/us-en/case-studies/data-ai/ccs-turning-wealth-information-action-for-patients
+
+## Questions
+- What are the key components of a Customer Analytics Record (CAR)
+- How does predictive AI improve patient adherence in chronic care management
+- What role do social determinants of health play in predictive models
