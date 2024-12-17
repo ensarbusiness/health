@@ -111,3 +111,10 @@ Citations:
 [8] https://www.webmd.com/a-to-z-guides/what-is-chronic-care-management
 [9] https://www.sih.net/services/ccm
 [10] https://www.signallamphealth.com/chronic-care-management-the-ultimate-guide/
+
+## Related
+- How can CCM improve patient outcomes for chronic conditions
+- What are the key components of the Chronic Care Model
+- How do CCM services differ from traditional face-to-face care
+- What are the five CPT codes used for reporting CCM services
+- How does CCM contribute to reducing healthcare costs
